@@ -35,6 +35,36 @@ https://www.coursera.org/learn/introduction-to-ai?specialization=ibm-generative-
 - Self-Driving Cars
 - AI and Cloud Computing, Edge Computing and IoT
 
+## Business and Career Transformation Through AI
+- AI Agents
+- What are AI Agents?
+- Robotics and Automation
+- AI Domains for Industries
+- Transforming Businesses through AI
+- The Rise of GenAI for Business
+- Lab3a: GenAI for Business Transformation
+- Become a Value Creator with GenAI
+- Introduction to RAG
+- What is RAG?
+- Adopting AI in your Business
+- Freameworks for AI Adoption
+- Lab3b: AI Adoption Frameworks - Amazon, OpenAI and Facebook
+- Transforming your work throught AI Tools
+- Career Opportunities with AI
+- Lab3c: Using GenAI for your work
+- Humans vs AI: Who should make the decision?
+- Supply and Demand for GenAI-Literate Employees
+
+
+
+
+
+
+
+
+
+
+
 
 
 
