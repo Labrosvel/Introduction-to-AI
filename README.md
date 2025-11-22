@@ -12,7 +12,7 @@ https://www.coursera.org/learn/introduction-to-ai?specialization=ibm-generative-
 - AI in Daily Life
 - AI Chatbots and Smart Assistants
 - What is a Chatbot
-- AI Assistant: User Conversation (Lab 1a)
+- Lab1a: AI Assistant - User Conversation
 - Applications of AI in Different Industries
 - GenAI Tools and Applications
 - 10 Everyday AI and ML use cases
