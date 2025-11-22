@@ -1,6 +1,6 @@
 https://www.coursera.org/learn/introduction-to-ai?specialization=ibm-generative-ai-engineering
 
-# Introduction-to-Artificial-Intelligence-AI-
+# Introduction-to-Artificial-Intelligence (AI)
 
 ## Introduction and Applications of AI
 - Introducing AI
